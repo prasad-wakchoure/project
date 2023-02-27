@@ -1,0 +1,425 @@
+name,namex,category,price_elasticity,price_mean,impressions_mean,intercept,slope
+Elite SC-LX501 7.2-Channel Network A/V Receiver,0,"receiver, amplifier, home",-0.141572879,2.697368421,0.311540125,0.355645758,-0.016351356
+"Power Acoustik EG1-4500D Edge Series Monoblock Class D Amp, 4,500 Watts Max",1,"car, speaker, subwoofer",-0.13355556,1.773684211,0.250869747,0.284374796,-0.018890087
+PYLE - Amplifier - Black,2,"receiver, amplifier, home",-3.762006432,7.263157895,0.037789111,0.179951992,-0.01957315
+Details About Sony Kd70x690e 70inch 4k Ultra Hd Smart Led Tv (2017 Model),3,"tv, television, led",-0.275314379,3.146491228,0.355582137,0.453479013,-0.03111303
+Sennheiser - RS 175 Over-the-Ear Wireless Headphone System - Black,4,headphone,-0.257778005,2.210526316,0.773062143,0.972340559,-0.09014976
+Silencio 352 microATX Case (Black),5,"case, computer",1.027654686,0.210526316,1.077045455,-0.029785354,5.257446338
+Alpha a7S II Mirrorless Digital Camera Body with Accessories Kit,6,"camera, mirrorless",-0.072324352,0.122807018,2.728379101,2.925707352,-1.606815756
+PowerShot G5 X Digital Camera Free Accessory Kit,7,"camera, shoot, point",0.100455806,0.227318296,1.166369995,1.049201358,0.515438659
+iHome iBN43BC Bluetooth Stereo Dual Alarm FM Clock Radio and Speakerphone with USB Charging,8,"radio, portable, satellite",-1.321006337,7.447368421,0.130921053,0.303868593,-0.023222638
+GoSafe S30 1080p Dash Cam,9,"car, gps, dash",-0.028930238,0.947368421,0.082265713,0.08464568,-0.002512187
+"LG - 65 Class - OLED - B7A Series - 2160p - Smart - 4K UHD TV with HDR""",10,"tv, 4k, television",0.07803971,4.991102757,0.83056797,0.765750687,0.012986566
+"Sony 65 Class 4K (2160P) Smart OLED TV (XBR65A1E)""",11,"tv, 4k, television",0.221645023,3.137153782,2.791320772,2.172638414,0.197211358
+Cyber-shot DSC-WX220 Digital Camera (Black),12,"camera, shoot, point",-0.396664716,2.142481203,0.498794027,0.696648017,-0.092348064
+MG278Q 27 Widescreen LED Backlit TN Gaming Monitor,13,"monitor, computer",-0.045416603,0.245614035,1.095883476,1.14565478,-0.20264031
+M.Zuiko Digital ED 40-150mm f/4-5.6 R Lens (Silver),14,"lens, camera",-0.02702998,1.131578947,1.94757004,2.00021282,-0.046521527
+4TB My Book Desktop USB 3.0 External Hard Drive,15,"drive, storage, hard",-2.166666667,4.561403509,0.313938409,0.994138294,-0.149120744
+Gear 360 Spherical VR Camera,16,"camera, camcorder, action",-0.379611289,0.596491228,0.28195001,0.388981417,-0.179435006
+HD 700 Stereo Headphones,17,headphone,2.226469496,6.233918129,-0.03183508,0.039044755,-0.01137003
+Details About Samsung Electronics Un49mu8000 49inch 4k (2160p) Uhd Led Lcd Internet Smart Tv,18,"tv, television, led",2.12427528,12.76992481,0.031768612,-0.035716665,0.005284704
+Dell DW316 External USB Slim DVD R/W Optical Drive 429-AAUX,19,"drive, dvd, computer",-0.31624848,0.821052632,0.822328549,1.082388702,-0.31673993
+Canon Black EOS Rebel T5i Digital SLR Camera with 18 Megapixels and 18-135mm Lens Included,20,"camera, mirrorless",-5.643998371,17.37311506,0.013713061,0.091109553,-0.004454958
+Thermaltake - SMART Series 650W Bronze Power Supply - Black,21,"power, computer, supply",-0.019743112,0.078947368,1.03419465,1.054612871,-0.258630803
+Details About 128gb Sony Xqd Qdg128e/j Memory Card,22,"card, memory, camera",-0.218081094,2.666666667,2.239285388,2.727631195,-0.183129678
+1500-Watt Digital Infrared Heater with Wi-Fi Phone App - White,23,"tablet, computer, ipad",-0.122006815,1.48245614,1.385581075,1.554631408,-0.114033953
+"Details About Kenwood Ddx375bt Car Double Din 6.2 Touchscreen Usb Dvd Cd Bluetooth Stereo""",24,"car, gps, dash",-0.189673024,0.147368421,0.243278272,0.289421597,-0.313115423
+"MSI - 15.6 Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1060 - 1TB Hard Drive + 256GB Solid State Drive - Black""",25,"laptop, computer",-130.9727815,0.140350877,0.000326428,0.043079606,-0.304616391
+fr Case for Galaxy S7 (Black),26,"phone, cell",-0.345511095,4.631578947,0.671679198,0.903751813,-0.050106587
+EOS Rebel SL2 DSLR Camera Body Deluxe Kit,27,"camera, mirrorless",-0.010208467,0.273279352,0.652931285,0.659596713,-0.024390528
+M-Audio - Over-the-Ear Headphones - Black,28,headphone,-0.707164046,11.05263158,0.162364644,0.277183082,-0.010388335
+Sennheiser - HD 599 Over-the-Ear Headphones HD 5 - Brown/ivory/matte metallic,29,headphone,0.026125423,0.15037594,1.284733285,1.251169085,0.223201931
+Razer Ripsaw USB 3.0 Game Stream and Capture Card for PC,30,"tv, streaming, medium",-0.425708304,1.328947368,0.642605631,0.916168184,-0.20584905
+Adventura SH 140 II Shoulder Bag (Black),31,"camera, bag",-0.014635306,0.539473684,0.603401934,0.612232906,-0.016369606
+"Refurbished Samsung Curved 65 4K (2160P) Smart QLED TV (2017 Model) + 1 Year Extended Warranty (QN65Q7CAMFXZA)""",32,"tv, 4k, television",0.083461318,15.09533303,0.616507059,0.565052567,0.003408636
+Toshiba X300 4TB Performance Desktop and Gaming Hard Drive 7200 RPM 128MB Cache SATA 6.0Gb/s 3.5 Inch Internal Hard Drive (HDWE140XZSTA),33,"drive, storage, hard",-0.610027489,2.824561404,2.871089656,4.622533269,-0.62007631
+Alpha a5100 Mirrorless Digital Camera with 16-50mm Lens (White),34,"camera, mirrorless",-0.372686336,3.470932233,0.445501353,0.611533619,-0.047835064
+Cooler Master - HAF X Ultimate Full-Tower Chassis - Black,35,"case, computer",-0.498851232,0.789473684,0.408820923,0.612761745,-0.25832504
+"Details About Samsung 55 Class 4k (2160p) Smart Led Tv (un55mu7000fxza)""",36,"tv, television, led",0.471999314,12.90450252,0.626046169,0.330552807,0.02289847
+"Sony - 55 Class - LED - X800E Series - 2160p - Smart - 4K UHD TV with HDR""",37,"tv, 4k, television",-0.545304493,5.972537112,0.474519279,0.733276773,-0.043324552
+"MTX - Monitor Series Dual 6-1/2 200W 2-way Center-Channel Speaker (Each) - Black""",38,"speaker, center, channel",-0.088131169,0.631578947,1.665772646,1.812579136,-0.23244361
+Details About New Oem Apple Ipad Air 2 Otterbox Defender Rugged Series Case With Kick Stand,39,"case, computer",-2.603682076,6.464342675,-0.053960208,-0.194455435,0.021733877
+Pyle Backup Rear View Car Camera Monitor Screen System Kit - Parking and Reverse Safety Distance Scale Lines,40,"car, gps, dash",1.564424103,11.11842105,0.116613503,-0.065819472,0.016408173
+UBD-M9500 HDR UHD Upscaling Blu-ray Disc Player,41,"player, ipod",0.204260891,4.815979342,0.431906041,0.343684529,0.018318499
+HT-XT2 170W 2.1-Channel TV Speaker Base (Black),42,"sound, speaker, home",-0.205517021,3.565789474,1.093929838,1.31875104,-0.063049488
+mophie powerstation Plus Mini External Battery with Built in Cables for Smartphones and Tablets (4,43,"power, battery, cell",-0.12140739,1.438596491,4.779859657,5.360169944,-0.403386419
+Actiontec 300 Mbps Wireless-N ADSL Modem Router (GT784WN),44,"networking, modem, router",-0.218110067,3.390497076,0.338663328,0.412529209,-0.021786151
+DP-300F Fully Automatic Turntable,45,"turntable, cd, audio",0.264704382,0.150877193,1.879260505,1.381812014,3.297042321
+Linksys Velop Tri-Brand Whole Home WiFi System-- White (AC6600),46,"networking, modem, router",-2.386872449,3.284210526,0.202935223,0.687315715,-0.14748765
+Olympus TG-5 Waterproof Camera with 3-Inch LCD,47,"camera, shoot, point",0.150275015,0.203258145,0.640641708,0.544369266,0.473646171
+MyWirelessTV2 Multi-Room Wireless HD Video Kit,48,"tv, streaming, medium",-0.249522551,1.973684211,0.528482938,0.660351349,-0.066813328
+NETGEAR Nighthawk X10 AD7200 802.11ac/ad Quad-Stream WiFi Router,49,"networking, modem, router",-0.016069117,2.881578947,0.786131532,0.798763971,-0.00438386
+"4TB Network OEM HDD Retail Kit (8-Pack, WD40EFRX, Red Drives)",50,"drive, storage, hard",-0.237491036,0.221291866,1.023047108,1.266011625,-1.097936954
+Master and Dynamic MH40S2 Award Winning Over-ear,51,headphone,0.233147949,0.126315789,0.62540133,0.479590293,1.154337378
+Apple - iPod touch® 32GB MP3 Player - Space Gray,52,"player, ipod",0.269608244,0.590538847,1.195731315,0.873352295,0.545906543
+CORSAIR - ML Series 140mm Case Cooling Fan - White,53,"tablet, computer, ipad",-0.474856428,7.605263158,0.078569407,0.115878596,-0.004905706
+EA9300 Tri-Band Wireless-AC4000 MAX-STREAM MU-MIMO Gigabit Router,54,"networking, modem, router",-0.131249108,0.236842105,0.219020887,0.247767183,-0.12137325
+"Sanus Tilt TV Wall Mount for 46 - 90"" - Bracket fits most LED""",55,"mount, tv, stand",0.792021533,54.01754386,0.086466165,0.017983101,0.001267793
+EcoXGear Ecostone Bluetooth Speaker,56,"speaker, portable, bluetooth",-0.682912268,1.736842105,0.191161616,0.321708229,-0.075163201
+"AOC - 18.5 LED Monitor - Black""",57,"monitor, computer",-0.080207611,1.885964912,-0.070441255,-0.076091179,0.002995774
+Alpha a7 II Mirrorless Digital Camera Body with Accessory Kit,58,"camera, mirrorless",-0.496754897,1.293233083,2.046270608,3.062765553,-0.786010626
+4K Video Camera,59,"camera, camcorder, action",-2.095234321,23.39184294,0.527848891,1.633816003,-0.047280033
+Sony - XB7 Extra Bass Audio System with Bluetooth - Black,60,"speaker, portable, bluetooth",-0.427127763,5.448464912,2.941450088,4.197825083,-0.230592472
+RS 195 Digital Wireless Headphone System,61,headphone,0.063640952,2.496240602,0.61985932,0.580410883,0.015803139
+Samsung - 850 EVO 500GB Internal SATA Solid State Drive for Laptops and PC,62,"drive, storage, hard",-0.061035659,3.134502924,0.415311005,0.440659785,-0.008087018
+"Details About Openbox Excellent: Alienware Aw2518h 25 Led Fhd Gsync Monitor Black""",63,"monitor, computer",2.847475924,0.719298246,0.020960295,-0.038723641,0.082975229
+"ELECTRIC100H Spectrum Motorized Projection Screen (49 x 87, 110V, 60Hz)",64,"screen, projector, projection",-0.280734414,1.394736842,0.674415205,0.863746762,-0.135747154
+Seagate Backup Plus 2TB Portable External Hard Drive for Mac USB 3.0 + 2mo Adobe CC Photography (STDS2000100),65,"drive, storage, hard",-0.867742913,1.407894737,0.168102073,0.313971456,-0.10360816
+XBR-X850E-Series 75-Class HDR UHD Smart LED TV,66,"tv, television, led",-0.308294513,6.601364522,0.488621633,0.639261001,-0.022819429
+GoPro HERO6 Black Camera,67,"camera, camcorder, action",0.038059286,0.342105263,0.524856503,0.504880839,0.058390402
+Razer Naga Chroma MMO Gaming Mouse 12 Programmable Thumb Buttons 16000 DPI Wired,68,"mouse, keyboard",-0.261391153,5.704385965,0.603521788,0.761277044,-0.027655081
+The Rebel BT On-Ear Wireless Bluetooth Headphones (Black),69,"headphone, earbud, bluetooth",0.02535563,0.852631579,0.254220434,0.247774514,0.007560029
+Samsung Radiant360 R1 Wi-Fi/Bluetooth Speaker WAM1500/ZA - Black (Certified Refurbished),70,"wireless, speaker, audio",-54.96284889,2.531578947,0.001873795,0.104862925,-0.040681777
+Details About Razer Mamba Chroma Professional Grade Esports Wired/wireless Ergonomic Gaming,71,"mouse, keyboard",-0.026778635,0.421052632,0.413691314,0.424769403,-0.026310461
+Toshiba - 1TB Internal SATA Hard Drive for Laptops,72,"drive, storage, hard",-0.134217259,0.052631579,0.242776616,0.275361428,-0.619111428
+Clarity - Super-Loud Phone Ringer - White,73,"phone, cell",1.797818281,12.05263158,0.120175439,-0.095878162,0.017925845
+Details About Fits Chevy Silverado Pickup 19992006 Speaker Upgrade Pioneer Tsg1345r Tsg4620s,74,"car, speaker, subwoofer",0.284346006,2.34887218,0.156051686,0.111679012,0.018891055
+Details About Microsoft Arc Mouse Bluetooth 4.0 Souris Wireless For Surface Windows 10,75,"mouse, keyboard",7.404495325,0.473684211,0.011388889,-0.072940086,0.178027835
+SiriusXM - Onyx Plus Satellite Radio Receiver with Home Kit - Black,76,"radio, portable, satellite",0.140170556,0.631578947,0.054891252,0.047197115,0.012182384
+Nikon - COOLPIX B700 20.2-Megapixel Digital Camera - Black,77,"camera, shoot, point",-0.208169346,0.668922306,0.823315676,0.994704762,-0.25621673
+iPhone 7 Smart Battery Case (Black),78,"phone, cell",0.185841879,2.236842105,0.433873144,0.353241344,0.036047158
+32GB High Speed UHS-I SDHC U3 Memory Card (Class 10),79,"card, memory, camera",-0.414101545,2.210526316,0.229845447,0.325024802,-0.043057327
+Apple - Smart Cover for Apple iPad and iPad® Air 2 - Charcoal Gray,80,"case, computer",-0.154254839,2.662280702,3.093970031,3.57122988,-0.179267291
+Tablo DUAL OTA DVR for Cord Cutters - 64 GB with WiFi - For use with HDTV Antennas,81,"tv, streaming, medium",-0.554124608,0.947368421,0.112307283,0.174539513,-0.065689575
+CORSAIR HYDRO SERIES H100i v2 AIO Liquid CPU Cooler,82,"tablet, computer, ipad",0.120376747,1.350877193,0.343688564,0.302316453,0.030626108
+Belkin Travel RockStar Surge Protector with 2 AC Outlets,83,"power, battery, cell",-0.188821062,4.546365915,1.061823861,1.262318571,-0.044099994
+Toshiba - 1TB Internal SATA Hard Drive for Desktops,84,"drive, storage, hard",1.332613403,1.210526316,0.652965748,-0.21718516,0.718820315
+T113UWS1 Portable Tripod Screen (80x80),85,"screen, projector, projection",3.620517704,3.171052632,-0.00652326,0.017094319,-0.007447867
+Samsung Galaxy Grand Prime G530A AT_T Unlocked 4G LTE Phone w/ 8MP Camera - White,86,"phone, cell",-0.143459341,0.35111913,694.4832056,794.1133086,-283.7501422
+Wireless HD Digital Kit,87,"tv, streaming, medium",-0.832077084,5.021052632,0.405604288,0.743098322,-0.067215793
+JVC KW-R920BTS 2-DIN Bluetooth In-Dash Car Stereo and SiriusXM Ready #KW92BT,88,"car, gps, dash",20101.94444,1.092105263,4.89E-06,-0.098285437,0.090000781
+Denon AVRX2300W  Dealer ReCertified  7.2 AV Receiver w/ Dolby Atmos,89,"receiver, amplifier, home",-0.188448334,8.912280702,0.323423331,0.384371919,-0.00683872
+"Rand McNally 0528011715 IntelliRoute 7 TND 730 GPS Unit""",90,"car, gps, dash",-0.583333333,7.736842105,-0.072807018,-0.115277778,0.005489418
+EF 50mm f/1.4 USM Lens,91,"lens, camera",0.10064194,8.064035088,0.9599173,0.863309361,0.011980099
+Philips174 Blu-Ray Disc Player,92,"player, ipod",1.287230123,5.194844871,2.258900222,-0.648824189,0.559732674
+"Asus - 17.3 Laptop - Intel Pentium - 8GB Memory - 1TB Hard Drive - Black""",93,"laptop, computer",1.49792823,0.315789474,-0.017880958,0.008903434,-0.084817239
+Sony MDRXB950B1 Extra Bass Wireless Headphones App Control BLACK #97 (GRADE A),94,"headphone, earbud, bluetooth",0.269834982,1.444187392,0.345467145,0.252248024,0.064547801
+DUB-1340 4-Port USB 3.1 Gen 1 Hub,95,"networking, adapter, switch",0.018461367,11.84473684,0.055233581,0.054213894,8.61E-05
+Pioneer - Elite 7.2-Ch. Hi-Res 4K Ultra HD HDR Compatible A/V Home Theater Receiver - Black,96,"receiver, amplifier, home",-0.201291269,1.657894737,0.421955297,0.506891214,-0.051231188
+Kingston - HyperX Savage 480GB Internal SATA III Solid State Drive for Laptops,97,"drive, storage, hard",-0.055555556,0.561403509,-0.039411028,-0.041600529,0.00390005
+SanDisk - High Endurance 64GB microSDXC Memory Card,98,"card, memory, camera",1,2,0.01754386,0,0.00877193
+Kenwood - CD - Built-In Bluetooth - Apple® iPod®- and Satellite Radio-Ready - In-Dash Deck - Black,99,"car, gps, dash",-0.12370623,1.912280702,2.440752975,2.742689324,-0.15789332
+"Samsung Galaxy Tab E Lite Kids 7; 8 GB Wifi Tablet (White) SM-T113NDWACCC""",100,"tablet, computer, ipad",-0.219199395,1.315789474,0.323324441,0.394196963,-0.053863117
+"VIZIO - 50 Class - LED - M-Series - 2160p - Smart - Home Theater Display with HDR""",101,"tv, 4k, television",-0.068460818,0.631578947,0.674727048,0.720919413,-0.073137912
+Sony - Premium Jacket Camera Case - Black,102,"camera, bag",-0.292048615,2.165413534,0.213088159,0.275320261,-0.02873913
+"Alpine - 6-1/2 2-Way Component Car Speakers with Poly-Mica Cones (Pair) - Black""",103,"car, speaker, subwoofer",0.02195714,1.590225564,1.409964871,1.379006075,0.019468179
+Details About Spring Deals Retal Box Sale Sx720 Canon Powershot Sx 720 Hs Digital Camera,104,"camera, shoot, point",0.088737353,1.741626794,0.326312833,0.297356696,0.016625914
+"VIZIO 39 Class FHD (1080P) Smart LED TV (D39f-E1)""",105,"tv, television, led",0.02523414,1.791666667,0.819630433,0.798947764,0.011543815
+Alpha a6000 Mirrorless Digital Camera with 16-50mm and 55-210mm Lenses Kit (Silver),106,"camera, mirrorless",-0.109389877,3.400518341,0.185794243,0.206118252,-0.005976739
+Details About Razer Kraken Pro V2 Analog Gaming Headset For Pc/xbox One/ps4 Black (p05),107,"headset, game, computer",0.039638873,0.678947368,0.839608244,0.80632712,0.049018711
+Details About Sony Kd43x720e 43inch 4k Ultra Hd Smart Led Tv (2017 Model) Kd43x720e,108,"tv, 4k, television",-0.055298253,1.245614035,1.379298657,1.455571463,-0.061233098
+Versavu Classic 360 Case for Apple iPad Air,109,"case, computer",-0.14492931,1.043859649,-0.106043361,-0.121412152,0.014723044
+"ViewSonic - 21.5 LED HD Monitor - Black""",110,"monitor, computer",-0.063694153,1.350877193,0.415118582,0.441559209,-0.019572931
+"Planet Audio - 6.2 - Bluetooth - In-Dash DVD Receiver - Black""",111,"car, gps, dash",-0.254813381,1.210526316,0.238982071,0.2998779,-0.05030525
+Details About Wd Red Pro 8tb Nas Desktop Hard Drive Intellipower 6 Gbs 128 Mb Cache Wd8001ffwx,112,"drive, storage, hard",0.701060818,0.157894737,0.422201337,0.126212522,1.874595826
+391 Series C32F391 32 16:9 Curved FreeSync LCD Monitor,113,"monitor, computer",0.921511274,2.587151703,-0.03853106,-0.003024254,-0.013724285
+Everest Elite 700 Around-Ear Wireless Headphones (White),114,headphone,1.333889058,0.14619883,0.206976008,-0.069107024,1.888407941
+Sony - Cyber-shot DSC-HX80 18.2-Megapixel Digital Camera,115,"camera, shoot, point",-0.167357964,0.410526316,3.415986014,3.987678477,-1.392584204
+Sony MDR-1A Headphone - Black (International Version U.S. warranty may not apply),116,headphone,0.198449467,0.127819549,0.234341073,0.187836212,0.363832148
+"Samsung - 49 Class - LED - Q6F Series - 2160p - Smart - 4K UHD TV with HDR""",117,"tv, television, led",0.729228657,7.275,0.670609215,0.181581758,0.067220269
+"Kicker DSC44 4 D-Series 2-Way Car Speakers with 1/2"" Tweeters""",118,"car, speaker, subwoofer",1.786449655,1.513157895,0.112907268,-0.088795882,0.133299473
+"2) New Kicker 41KSC6934 6x9 3-Way 300 Watt Car Audio Coaxial Speakers KSC693""",119,"car, speaker, subwoofer",-0.811909138,36.81954887,1.014485226,1.838155052,-0.022370449
+ZS-RS60BT CD Boombox,120,"radio, portable, satellite",1.047678391,0.115789474,-0.017594616,0.000838883,-0.159198397
+"Kenwood - 6.2 - Apple CarPlay™ - Built-in Navigation - Bluetooth - In-Dash CD/DVD/DM Receiver - Black""",121,"car, gps, dash",0.654538218,2.077192982,1.710840565,0.591030031,0.539097976
+"7.0 Tab A 8GB Tablet (Wi-Fi Only, Black)",122,"tablet, computer, ipad",0.9924977,1.835032368,4.027729672,0.030217236,2.178442466
+iPL24 FM Clock Radio with Lightning Dock and USB Port (Gunmetal),123,"speaker, portable, bluetooth",-0.26619885,6.710526316,0.340437852,0.431062016,-0.013504777
+Optoma - UHD60 4K DLP Projector with High Dynamic Range - White,124,"projector, presentation, screen",0.743877377,1.052631579,-0.043449905,-0.011128504,-0.030705331
+MU9000-Series 65-Class HDR UHD Smart LED TV,125,"tv, 4k, television",-0.457505062,14.79865365,0.372140001,0.542395935,-0.011504826
+V-MODA - Crossfade 2 Wireless Over-the-Ear Headphones - Rose gold,126,"headphone, earbud, bluetooth",-0.075499954,1.736842105,2.678386249,2.880604288,-0.116428568
+M80UWH Manual Series Projection Screen (39.6 x 69.6),127,"screen, projector, projection",0.163316114,4.815789474,-0.039219986,-0.03281473,-0.001330053
+"Samsung - 40 Class (39.5"" Diag.) - LED - 1080p - Smart - HDTV""",128,"tv, television, led",0.086731332,4.75877193,0.56913286,0.519771209,0.010372771
+TL-SF1008P 8-Port 10/100Mbps Desktop Switch with 4-Port PoE,129,"networking, adapter, switch",0.16397073,0.565789474,0.02300638,0.019234007,0.00666745
+SanDisk - Ultra 32GB microSDHC Class 10 Memory Card,130,"card, memory, camera",-0.038593612,0.062200957,0.513773494,0.533601869,-0.318779259
+Att Samsung Galaxy Express 3,131,"phone, cell",2.094532725,11.60691384,0.316547231,-0.346471303,0.057122724
+JOBY GorillaPod 3K Kit. Compact Tripod 3K Stand and Ballhead 3K for Compact Mirrorless Cameras or devices up to 3K (6.6lbs). Black/Charcoal.,132,"camera, shoot, point",1.267691691,0.082706767,0.158607202,-0.04245783,2.431059023
+3TB AirPort Time Capsule (5th Generation),133,"drive, storage, hard",-0.212463386,2.736842105,0.551461792,0.668627231,-0.042810449
+BOYO - Concealed Mount License Plate Camera with Night Vision - Black,134,"car, gps, dash",-0.177910299,0.631578947,0.427910686,0.504040404,-0.120538721
+Logitech Harmony Smart Control with Smartphone App and Simple All In One Remote - Black,135,"remote, control, tv",-0.235121492,3.964035088,6.093577933,7.526309067,-0.361432505
+Alpine - UTE - Apple iPod- and Satellite Radio-Ready - In-Dash Receiver - Black,136,"car, gps, dash",-0.04389871,1.052631579,1.140142156,1.190192926,-0.047548232
+Details About *new~sennheiser Hd 4.50 Btnc Wireless Noise Cancelling Headphones~touch Controls,137,headphone,-0.223693196,3.947368421,0.389932493,0.477157738,-0.022097062
+MU8000-Series 65-Class HDR UHD Smart LED TV,138,"tv, television, led",-0.145472447,12.26754386,1.242075309,1.422763044,-0.014728925
+LG Electronics OLED65C7P 65-Inch 4K Ultra HD Smart OLED TV - Refurbished,139,"tv, 4k, television",-0.713020448,9.923558897,0.173377033,0.296998402,-0.012457362
+SanDisk Extreme 500 480GB USB 3.0 Portable SSD (Solid State Drive) - SDSSDEXT-480G,140,"drive, storage, hard",-0.624287895,1.932330827,0.203840873,0.331096262,-0.065855902
+iSimple ISBC01 BluClik Bluetooth Remote Control with Steering Wheel and Dash Mounts,141,"car, gps, dash",0.243295019,0.236842105,0.092948718,0.070334758,0.095481165
+Details About Garmin Etrex 10 Handheld Outdoor Hiking Gps Receiver Brand New 0100097000,142,"car, gps, dash",-0.104470697,0.280701754,0.378584587,0.418135582,-0.140900422
+Apple - Pre-owned 9.7-inch iPad Pro - 32GB - Space gray,143,"tablet, computer, ipad",-0.522729525,1.098564593,0.109907478,0.167359362,-0.052297229
+GP60NB50 8x Super-Multi Portable DVD Rewriter with M-DISC,144,"drive, dvd, computer",-0.819398287,18.34553429,0.05717419,0.104022624,-0.00255367
+Sony - XB20 Portable Bluetooth Speaker - Blue,145,"speaker, bluetooth, mobile",-0.043579251,1.645363409,0.425326208,0.443861606,-0.01126523
+Details About Kenwood 12 Inch 2000 Watt 4 Ohm Single Voice Coil Audio Subwoofer | Kfcw3016ps,146,"car, speaker, subwoofer",-0.234183047,1.421052632,1.147556391,1.416294643,-0.189112103
+SiriusXM SXSD2 Portable Speaker Dock Audio System for Dock and Play Radios (Black),147,"speaker, portable, bluetooth",-0.583333333,5.157894737,0.578439642,0.915862766,-0.065418769
+V-MODA - CROSSFADE M-100 Over-the-Ear Headphones - Shadow,148,headphone,-0.452767245,0.921052632,0.533207618,0.774626563,-0.262111997
+Grace Digital - 3Play Bluetooth Audio Adapter - Black,149,"wireless, speaker, audio",2.996073886,9.207017544,0.063945119,-0.127639183,0.020808508
+PowerShot G7 X Mark II Digital Camera with Free Accessory Kit,150,"camera, shoot, point",-0.158728259,1.94606972,4.550283241,5.272541779,-0.371137031
+"Sony - 55 Class - OLED - A1E Series - 2160p - Smart - 4K UHD TV with HDR""",151,"tv, 4k, television",-0.18076721,2.428070175,0.767978169,0.906803439,-0.057175148
+House of Marley Smile Jamaica In-Ear Earbuds,152,"headphone, earbud, bluetooth",-0.933768675,5.157894737,0.789493628,1.526698047,-0.142927387
+Logitech K800 Wireless Illuminated Keyboard — Backlit Keyboard,153,"keyboard, computer, mouse",-0.111678616,4.815789474,0.740682392,0.823400776,-0.017176495
+LG - Super-Multi 24x External USB 2.0 Double-Layer DVD±/CD-RW Drive - Black,154,"drive, dvd, computer",2.520719017,2.127192982,0.226935507,-0.345105141,0.268918078
+Asus RT-AC5300 IEEE 802.11ac Ethernet Wireless Router - 2.40 GHz ISM Band - 5 GHz UNII Band - 8 x Antenna(8 x External) - 5334 Mbit/s Wireless Speed - 4 x Network Port - 1 x Broadband Port - USB - Gig,155,"networking, modem, router",0.149628209,0.198830409,0.507674996,0.431712496,0.382046692
+"Polk Audio - Vanishing Series RT 7 3-Way In-Ceiling Speaker (Each) - White""",156,"speaker, ceiling, wall",0.014193716,6.789473684,0.306265664,0.301918616,0.000640263
+Source 530 Full Tower Case (Black),157,"case, computer",-0.125807164,0.447368421,1.69615829,1.909547155,-0.476986874
+Silicondust HDHomeRun-HD-Television-Tuner,158,"tv, streaming, medium",0.08908963,1.078947368,0.688700919,0.627344809,0.056866638
+Liberate XLBT Bluetooth Headphones (Midnight),159,headphone,-0.118803759,1.657894737,1.303399936,1.458248747,-0.09340087
+Sanus WSS2-W1 White Sonos Speaker Stands,160,"mount, tv, stand",-0.387838021,0.447368421,0.108855472,0.151073763,-0.094370297
+LG Electronics OLED65E6P Flat 65-Inch 4K Ultra HD Smart OLED TV (2016 Model),161,"tv, 4k, television",0.120779972,2.336687307,1.46829273,1.290952376,0.075893918
+"Details About Samsung 24 Class Hd (720p) Smart Led Tv (un24m4500)""",162,"tv, television, led",0.151943324,6.972368421,0.134510343,0.114072394,0.002931278
+Onkyo - TX 7.2-Ch. Network-Ready A/V Home Theater Receiver - Black,163,"receiver, amplifier, home",-0.097127659,1.052631579,1.202729618,1.31954793,-0.110977397
+Details About Seagate 4 Terabyte (4tb) Superspeed Usb 3.0 Game Drive For Xbox One Stea4000402,164,"drive, storage, hard",-0.130825229,0.364035088,0.822394413,0.929984351,-0.295548261
+AF-S NIKKOR 85mm f/1.8G Lens,165,"lens, camera",-0.155362679,0.657894737,1.19268088,1.377978977,-0.281653107
+Sigma - 35mm f/1.4 DG HSM Art Standard Lens for Canon - Black,166,"lens, camera",-0.033042796,1.147368421,0.397363002,0.410492986,-0.011443564
+V206HQL Abd 19.5 LED Backlit LCD Monitor (Black),167,"monitor, computer",-0.635362589,1.714912281,0.11318658,0.185101098,-0.041934809
+Seagate Backup Plus Ultra Slim 2TB Portable External Hard Drive,168,"drive, storage, hard",0.049104862,0.520467836,-0.071375337,-0.067870461,-0.006734088
+Amazon - Amazon Tap Portable Bluetooth and Wi-Fi Speaker - Black,169,"smart, home, automation",0.114123273,1.199804465,0.702823963,0.622615392,0.066851369
+FUGOO - Sport XL Portable Bluetooth Speaker - Black/White,170,"speaker, bluetooth, mobile",-37.70799458,0.350877193,-0.002213225,-0.085669516,0.237850427
+Lumix G 25mm f/1.7 ASPH. Lens,171,"lens, camera",0.275628616,0.256578947,1.593608099,1.154364105,1.711925312
+Details About Genuine Used Apple 85w Magsafe Power Adapter Mc556ll/b Model A1343 1185cl,172,"charger, computer, laptop",-0.091696344,0.614035088,12.57105908,13.72377923,-1.877287111
+Bower - Electret Condenser Microphone,173,"microphone, musical, recording",0.696669592,6.146260388,0.917861722,0.278415371,0.104038279
+"Samsung - 50 Class (49.5"" Diag.) - LED - 1080p - Smart - HDTV""",174,"tv, television, led",0.842027251,6.15056391,0.332163743,0.05247282,0.045474029
+"Samsung Level U PRO Headphones with ANC, Black",175,"headphone, earbud, bluetooth",-0.943837871,7.089473684,0.364374861,0.708285655,-0.04851006
+CORSAIR CL-9011109-WW Lighting Node PRO,176,"tablet, computer, ipad",-1.383469051,2.368421053,0.015490206,0.036920426,-0.009048315
+"Refurbished Vizio 55 Class 4K (2160P) Smart LED Home Theater Display (M55-D0)""",177,"tv, 4k, television",-2.025872913,14.08187135,2.157449132,6.528166891,-0.310379043
+Pioneer GM-D8601 Class D Mono Amplifier with Wired Bass Boost Remote,178,"car, speaker, subwoofer",-0.184363852,1.908270677,0.629695658,0.745788776,-0.060836819
+Apple MD825AM/A Lightning to VGA Adapter for iPhones,179,"cable, tv, theater",-0.401300622,1.894736842,0.165902459,0.232479219,-0.035137734
+Details About New Arris Surfboard 16x Cable Modem With Wifi Ac1900 Router (sbg6900ac),180,"networking, modem, router",0.122028627,2.186018527,26.7916998,23.52234546,1.495574852
+"Magellan Roadmate 5322-LM 5 Touchscreen Portable GPS Navigation System""",181,"car, gps, dash",-0.259906127,3.710526316,0.57545775,0.725022745,-0.040308296
+"SAMSUNG 40 Class FHD (1080P) Smart LED TV (UN40J5200AF)""",182,"tv, television, led",-0.401542726,18.53623073,0.067202331,0.094186938,-0.001455776
+PMX840BT Bluetooth 8-Channel 800-Watt Powered Mixer with MP3,183,"microphone, musical, recording",-0.135661012,0.631578947,3.129382467,3.55391766,-0.672180721
+"Details About Alpine 480w 6.5 2way Typee Coaxial Car Speakers W/ Silk Tweeters | Spe6000""",184,"car, speaker, subwoofer",-0.313552325,15.54385965,0.183573603,0.241133533,-0.003703065
+Kicker 43CXA3001 600 Watt MONO Class D Power Car Audio Amplifier Amp CXA300.1,185,"car, speaker, subwoofer",0.099969851,4.72556391,0.286949283,0.258263006,0.006070445
+Boytone - 2500W 2.1-Ch. Home Theater System - Black Diamond,186,"speaker, audio",-0.83076389,1.789473684,0.065991903,0.120815593,-0.030636768
+"Portable Bluetooth Wireless Speaker, Red",187,"speaker, audio",-0.319192999,23.42105263,0.184051037,0.242798839,-0.002508333
+PyleHome - LCD Projector - Silver/White,188,"projector, presentation, screen",-0.255864997,2.210526316,0.609473684,0.765416667,-0.070545635
+PowerShot G9 X Digital Camera Accessory Kit (Silver),189,"camera, shoot, point",-0.443387778,1.64439946,0.291418561,0.42062999,-0.078576667
+PP999 Phono Preamplifier,190,"turntable, cd, audio",-0.348339609,7.964912281,0.275741077,0.371792616,-0.012059334
+Razer Kraken Pro Gaming Headset Green,191,"headset, game, computer",0.43463645,0.116959064,13.03344164,7.368632839,48.43411522
+JBL Clip2 Portable Speaker,192,"speaker, portable, bluetooth",-0.088121651,1.099687718,2.328128388,2.533286905,-0.186560706
+SoundSport Wireless In-Ear Headphones (Black),193,"headphone, earbud, bluetooth",-0.114485208,0.171052632,0.710540781,0.79188719,-0.475563622
+"Samsung - 55 Class - LED - Curved - Q7C Series - 2160p - Smart - 4K UHD TV with HDR""",194,"tv, television, led",-0.617408234,15.56229693,0.161399757,0.261049297,-0.006403267
+450 Mbps 2.4/5GHz Wireless N Dual Band PCI Express Adapter,195,"networking, adapter, switch",-0.144792176,0.49122807,-0.103760756,-0.118784502,0.030584054
+"Alpine - 5 x 7"" 2-Way Coaxial Car Speakers with Poly-Mica Cones (Pair) - Black""",196,"car, speaker, subwoofer",0.69348569,2.526315789,0.326341012,0.10002819,0.089582159
+Linksys AC1900 Gigabit Range Extender/WiFi Booster/Repeater MU-MIMO (Max Stream RE7000),197,"networking, modem, router",2.013267883,13.40350877,0.254385965,-0.257761128,0.038209927
+Pinnacle P1 High Fidelity Audiophile In-Ear Headphones,198,"headphone, earbud, bluetooth",1.099189652,0.701754386,-0.032073774,0.003181387,-0.050238604
+Cobra - Radar and Laser Detector,199,"radar, detector, vehicle",0.133458869,0.254385965,1.175689223,1.018783069,0.616803503
+Microsoft Surface Pro 4 Type Cover with Fingerprint ID,200,"keyboard, computer, mouse",-0.266666667,1.984962406,0.057956994,0.073412192,-0.007786142
+"Power Acoustik Pmd-102x 10.1 Ceiling-Mount Swivel Monitor With DVD""",201,"car, gps, dash",-0.791218803,4.526315789,0.55056391,0.986180428,-0.096240859
+"Samsung 24 Class HD (720P) LED TV (UN24H4500)""",202,"tv, television, led",2.345320988,28.70175439,0.174498747,-0.234756827,0.014258904
+"LG - 65 Class - LED - SJ8500 Series - 2160p - Smart - 4K UHD TV with HDR""",203,"tv, 4k, television",0.674784564,13.99824561,0.3246643,0.105585842,0.015650422
+"SAMSUNG 65 Class 4K (2160P) Ultra HD Smart QLED HDR TV QN65Q6FNAFXZA (2018 Model)""",204,"tv, television, led",-0.271352162,11.31216812,1.006735149,1.279914907,-0.024149195
+Details About Optoma Hd142x Full Hd 10980p 3d Dlp Home Theater Projector,205,"projector, presentation, screen",-0.30089576,5.522556391,0.718119527,0.934198648,-0.039126648
+Vizio 38 5.1 Sound Bar System - Black (sb3851-C0),206,"sound, speaker, home",-0.156624957,0.76790461,6.319023865,7.308740704,-1.288853884
+V-MODA Crossfade Wireless Over-Ear Headphones - Phantom Chrome,207,headphone,-0.436218574,2.800501253,0.171829983,0.246785413,-0.026765005
+e1659Fwu 16 Widescreen USB 3.1 Gen 1 Powered LED Backlit LCD Monitor,208,"monitor, computer",-0.301311318,5.331578947,0.461280482,0.600269512,-0.026069018
+XB550AP EXTRA BASS Headphones (Black),209,headphone,0.495640408,1.212865497,0.24944966,0.125812329,0.101938205
+Riing 12 LED 120mm Radiator Fan (Blue),210,"tablet, computer, ipad",-0.274493673,2.706766917,0.440722526,0.56169807,-0.044693743
+Sony - RF995RK Wireless Over-the-Ear Headphones - Black,211,headphone,1.332458663,3.388843363,5.338681719,-1.774890985,2.099115227
+Aeon 71.5 x 130.9 16:9 Fixed Frame Projection Screen with CineWhite Projection Surface,212,"screen, projector, projection",0.618141258,0.5,0.206159338,0.078723745,0.254871185
+SRS-XB40 Bluetooth Speaker (Black),213,"speaker, bluetooth, mobile",-0.216042928,3.796365915,1.081069245,1.31462661,-0.0615213
+XB80BS Extra Bass Sports In-Ear Bluetooth Headphones (Black),214,"headphone, earbud, bluetooth",-0.648292939,8.549820063,2.222538456,3.663394444,-0.168524715
+"Atrend-Bbox 10 Dual Front-Fire Enclosure for Dodge Ram 19962002""",215,"car, speaker, subwoofer",-1.425531915,3.684210526,0.092763158,0.225,-0.035892857
+"Polk Audio - 7 3-Way Floor Speaker (Each) - Cherry""",216,"speaker, audio",0.987030176,16.94736842,-0.049161681,-0.000637618,-0.002863221
+Lumix DMC-G7 Mirrorless Micro Four Thirds Digital Camera with 14-42mm Lens and Accessory Kit (Black),217,"camera, mirrorless",-0.851858712,2.822325421,0.658782893,1.21997284,-0.198839561
+CORSAIR - VENGEANCE LED Series 16GB (2PK 8GB) 3.0GHz DDR4 Desktop Memory with LED Lighting - Black,218,"memory, computer, component",-0.599169959,0.778195489,0.037859112,0.060543154,-0.029149542
+Flexson - Wall Mount for Sonos PLAY:1 Speakers (2-Pack) - White,219,"mount, tv, stand",0.20833607,0.084795322,0.904015394,0.71567638,2.221101476
+"Sony - 49 Class - LED - X900E Series - 2160p - Smart - 4K UHD TV with HDR""",220,"tv, television, led",-0.017033953,1.686134175,1.362875494,1.386090652,-0.013768274
+Pioneer - 5.1-Ch. 4K Ultra HD HDR Compatible A/V Home Theater Receiver - Black,221,"receiver, amplifier, home",-0.09311357,3.535087719,1.076331299,1.176552349,-0.028350371
+TL-SG108 8-Port 10/100/1000 Mbps Unmanaged Desktop Switch,222,"networking, adapter, switch",-0.583333333,3.131578947,0.833227769,1.319277301,-0.155209094
+T92UWH Portable Tripod Screen (45x80),223,"screen, projector, projection",0.121543152,2.745614035,1.597399749,1.403246748,0.070713873
+"PLAYBAR Wireless Soundbar, Wireless Speaker Pair, and Wireless Subwoofer Kit (White)",224,"sound, speaker, home",-0.05148411,0.005370569,3.524152394,3.705590245,-33.78372784
+AVR-S730H 7.2-Channel Network A/V Receiver,225,"receiver, amplifier, home",0.249904575,1.345864662,0.417362685,0.313061841,0.077497276
+StarTech.com - DVI Dual-Monitor USB 3.0 Docking Station - Black / Silver,226,"tablet, computer, ipad",3.092760925,4.973684211,0.102901484,-0.215348206,0.06398671
+CORSAIR - Vengeance LPX 16GB (2PK x 8GB) 3.2 GHz DDR4 DRAM Desktop Memory Kit - Black,227,"memory, computer, component",0.604900798,1.523391813,0.529459064,0.209188854,0.210234956
+PLAY:3 Wireless Speaker (Black),228,"wireless, speaker, audio",0.364490416,0.347953216,-0.116398286,-0.073972226,-0.121930357
+Details About Razer Blackwidow Chroma V2,229,"keyboard, computer, mouse",0.032750181,1.754385965,0.814940366,0.788250922,0.015212983
+"ELECTRIC125H Spectrum Motorized Projection Screen (61 x 109, 110V, 60Hz)",230,"screen, projector, projection",1.378075748,1.70877193,-0.040726817,0.015397822,-0.032845015
+AfterShokz Trekz Titanium Wireless Headphones,231,headphone,-0.091640097,0.298245614,0.868772574,0.948386977,-0.266942411
+"Sony 43 Class 4K UHD (2160P) Smart LED TV (XBR43X800E)""",232,"tv, television, led",-0.634097225,4.701754386,0.437177888,0.714391174,-0.058959542
+Roll Bar Mount,233,"camera, camcorder, action",1.076531866,23.94736842,0.20081952,-0.015369093,0.009027656
+AVR-X3400H 7.2-Channel Network A/V Receiver,234,"receiver, amplifier, home",-0.293208275,2.105263158,1.465204678,1.894814815,-0.204064815
+"Samsung - 40 Class - LED - MU7000 Series - 2160p - Smart - 4K UHD TV with HDR""",235,"tv, television, led",-0.5184857,8.850202429,0.81589083,1.238918558,-0.04779865
+Leviathan Elite Gaming Soundbar,236,"speaker, audio",-0.209644239,2.245614035,2.113758002,2.556895191,-0.197334529
+SRS-XB40 Bluetooth Speaker (Blue),237,"speaker, bluetooth, mobile",-0.183150275,4.315789474,0.858980483,1.016302995,-0.036452777
+"Sony - 2.1-Channel Soundbar System with 6.3 Wireless Subwoofer and Digital Amplifier - Black""",238,"sound, speaker, home",-0.129315571,2.698412698,1.50337013,1.697779296,-0.07204575
+SRS-XB10 Bluetooth Speaker (White),239,"speaker, bluetooth, mobile",0.784528092,0.392134182,0.206289933,0.044449685,0.412716501
+Samsung-3-Pack-Connect-Home-Smart-Wi-Fi-System-AC1300,240,"smart, home, automation",-0.129244136,1.210526316,0.650573768,0.734656613,-0.069459741
+Alpha a7 Mirrorless Digital Camera with 28-70mm Lens and Battery Kit,241,"camera, mirrorless",-1.391300813,13.13828689,0.619231919,1.480769792,-0.065574597
+"Power Acoustik LP-3CSC License Plate with 2 Backup Sensors and CCD Camera, Chrome",242,"car, gps, dash",-0.54344295,11.59210526,0.193128655,0.298083061,-0.009053956
+My Cloud Expert Series EX4100 24TB 4-Bay NAS Server (4 x 6TB),243,"drive, storage, hard",0.990916045,0.140350877,0.424707602,0.003858025,2.998553241
+BC 30 Wireless Backup Camera with Car Adapter Power Cable,244,"car, gps, dash",0.355321355,1.719298246,0.413032581,0.266273285,0.085359999
+V-MODA XS On-Ear Folding Design Noise-Isolating Metal Headphone (Matte Black Metal),245,headphone,-0.282825801,1.701754386,0.842951244,1.081359604,-0.140095634
+ECOXGEAR - ECOSTONE Bluetooth Waterproof Speaker - Blue,246,"speaker, audio",-1.477140644,2.618421053,0.081265324,0.201305637,-0.045844542
+Single DIN Head Unit Receiver - In-Dash Car Stereo with 7” Multi-Color Touchscreen Display - Audio Video System with Bluetooth for Wireless Music Streaming & Hands-free Calling - Pyle PLTS78DUB,247,"car, gps, dash",-0.579009133,10.42105263,0.62241618,0.982800833,-0.034582366
+Pioneer 200W 4x6 Inch 3 Way 4 Ohms Coaxial Car Audio Speakers Pair | TS-A4676R,248,"car, speaker, subwoofer",1.201616386,0.589473684,0.574481659,-0.115824916,1.171055796
+CORSAIR M65 Pro RGB - FPS Gaming Mouse - 12,249,"mouse, keyboard",-0.643086507,1.140350877,0.135280608,0.222277742,-0.076289794
+Seagate - Backup Plus 5TB External USB 3.0 Portable Hard Drive - silver,250,"drive, storage, hard",-0.133690917,0.317982456,0.594095274,0.673520415,-0.249778377
+Sony SRSHG1/BLK Hi-Res Wireless Speaker- Charcoal black,251,"speaker, bluetooth, mobile",-0.605268354,6.140350877,0.127943449,0.205383569,-0.012611677
+"Samsung - 65 Class - LED - MU6290 Series - 2160p - Smart - 4K Ultra HD TV with HDR""",252,"tv, television, led",-0.258182743,2.610087719,0.154266007,0.194094828,-0.015259572
+VXi - BlueParrott B450-XT Bluetooth Headset - Black,253,"phone, cell",-0.9,8.052631579,0.026315789,0.05,-0.002941176
+"D3400 DSLR Camera with 18-55mm and 70-300mm Lenses (Red, Refurbished)",254,"camera, mirrorless",-0.582544244,9.073099415,0.26001887,0.411491365,-0.01669468
+AVR-S530BT 5.2-Channel A/V Receiver,255,"receiver, amplifier, home",0.584737582,1.368421053,1.309774436,0.5439001,0.5596774
+HT-NT5 400W 2.1-Channel Soundbar System,256,"sound, speaker, home",-0.080588475,3.785135917,0.555748273,0.600535179,-0.011832311
+Sony Premium Noise Cancelling,257,"headphone, earbud, bluetooth",-1.113759706,18.50438596,0.782300341,1.653594939,-0.047085842
+Cyber-shot DSC-RX100 V Digital Camera,258,"camera, shoot, point",-0.231229281,0.726315789,2.357042571,2.90205983,-0.750386081
+Grace Digital - 100W 2.0-Ch. Amplifier - Black,259,"receiver, amplifier, home",-2.00435102,7.280701754,-0.064859225,-0.194859878,0.017855511
+SRS-ZR7 Wireless Speaker,260,"wireless, speaker, audio",-0.636134374,7.148245614,0.562336193,0.920057575,-0.050043242
+Cyber-shot DSC-WX350 Digital Camera Deluxe Kit (Black),261,"camera, shoot, point",0.279413663,0.869556244,5.662995238,4.080676994,1.81968476
+Sony MDR-1000X/C Wireless Bluetooth Noise Cancelling Hi-Fi Headphones (Certified Refurbished),262,"headphone, earbud, bluetooth",-0.254699296,3.144736842,0.169520392,0.212697116,-0.013729837
+Dell USB 3.0 Ultra HD/4K Triple Display Docking Station (D3100),263,"tablet, computer, ipad",-0.285105108,1.331578947,0.259641625,0.333666779,-0.055592013
+22 Widescreen Full HD 1080p LED Monitor,264,"monitor, computer",1.177589581,1.108646617,0.568913919,-0.101033185,0.604292742
+"KICKER - 6.5 2-Way Full-Range Speakers (Pair) - White""",265,"speaker, audio",-0.225302672,0.948245614,0.770900572,0.94458653,-0.183165581
+JBL Cinema SB350 Soundbar System,266,"sound, speaker, home",0.944644305,0.907894737,0.386434837,0.021391369,0.402076863
+SiriusXM Commander Touch Full-Color,267,"radio, portable, satellite",-0.477067116,2.105263158,0.397076023,0.586507937,-0.089980159
+"Samsung - 32 Class (31.5"" Diag.) - LED - 720p - Smart - HDTV""",268,"tv, television, led",1.234595245,1.391541353,0.159811135,-0.037490932,0.141786708
+"Refurbished LG 65 Class 4K (2160P) Smart LED TV (65UJ7700)""",269,"tv, 4k, television",-0.494842337,1.876194797,0.104565776,0.156309349,-0.027578998
+7.2CH AVR WITH WIFI _ BLUETOOTH 2 HDMI OUTPUTS 90 WATTS/CH.,270,"receiver, amplifier, home",-0.117647059,5.473684211,-0.096365915,-0.107703081,0.002071213
+Samsung - Fast Charge Wireless Charger - Black,271,"power, battery, cell",-2.8,8.105263158,0.2,0.76,-0.069090909
+"Sony - Core Series Dual 5 3-Way Floorstanding Speaker (Each) - Black""",272,"speaker, audio",0.109112231,0.329323308,1.902883437,1.69525558,0.63046815
+PNY - NVIDIA GeForce GTX 1060 6GB GDDR5 PCI Express 3.0 Graphics Card - Black,273,"graphic, card, computer",-0.1875,3,-0.085295476,-0.101288377,0.005330967
+Escort Solo S3 Cordless Radar Detector,274,"radar, detector, vehicle",0.079488162,10.68421053,0.125725152,0.115731491,0.000935367
+Pioneer Elite VSX-LX101 7.2 Channel Networked AV Receiver with Built-In Bluetooth _ Wi-Fi Black,275,"receiver, amplifier, home",-0.291745716,4.263157895,0.231937499,0.299604271,-0.015872453
+"Kenwood - 6.5 2-Way Marine Speakers with Polypropylene Cones (Pair) - Black""",276,"car, speaker, subwoofer",-0.501062995,3.333333333,1.66085939,2.49305457,-0.249658554
+Sandisk Flash Mp3 Player 8gb - Pink (sdmx24008p),277,"player, ipod",-0.620423088,2.693620415,0.521577149,0.845175654,-0.120135155
+"LG - 55 Class - LED - UJ7700 Series - 2160p - Smart - 4K UHD TV with HDR""",278,"tv, 4k, television",-3.408314543,34.51578947,0.166666667,0.734719091,-0.016457755
+"Pyle BT Vintage Style Turntable with AM/FM Radio, CD _ Cassette Players, USB Flash Recording _ Slide-Out /MP3 Dock",279,"turntable, cd, audio",0.162641471,2.052631579,0.356998557,0.298935786,0.028286991
+Turtle Beach - EAR FORCE Stealth 450 Over-the-Ear Wireless Gaming Headset for PC - Black/Red,280,"headset, game, computer",-0.987343054,10.47368421,0.052631579,0.104597003,-0.004961523
+New OEM Braven LUX Pearl Portable HD Wireless Bluetooth Speaker Power Bank,281,"speaker, portable, bluetooth",-0.357142857,9.210526316,0.02119883,0.028769841,-0.000821995
+Cerwin Vega - SL Series 2-Way Center-Channel Loudspeaker - Black,282,"speaker, center, channel",-0.339495277,3.368421053,1.385341559,1.855658476,-0.139625335
+Toshiba - 2TB Internal SATA Hard Drive for Desktops,283,"drive, storage, hard",-1.006009229,1.897368421,0.606273706,1.216190649,-0.321454145
+Russound - 2-Way Outdoor Rock Loudspeaker (Each) - Gray Granite,284,"speaker, audio",1.532950146,3.078947368,-0.03874862,0.020651083,-0.019292211
+"Power Acoustik - MOFO 15.50 1700 W Woofer - Royal Blue""",285,"car, speaker, subwoofer",-0.451609656,0.789473684,0.540088248,0.783997316,-0.308951486
+Details About Seagate Expansion 1tb External Usb 3.0 Portable Hard Drive Black,286,"drive, storage, hard",-0.232505623,1.059210526,0.523874649,0.645678451,-0.114994894
+Sony HTST9 Soundbar with Wireless Subwoofer Bluetooth and Google Cast,287,"sound, speaker, home",-0.186080742,0.98245614,0.319223192,0.37862448,-0.060462026
+"Russound - Acclaim 5 Series 5-1/4 2-Way Indoor/Outdoor Speakers (Pair) - White""",288,"speaker, audio",-1.89157546,2.105263158,0.020843776,0.060271351,-0.018728098
+"Samsung - 65 Class - LED - MU7000 Series - 2160p - Smart - 4K UHD TV with HDR""",289,"tv, 4k, television",-0.397476951,14.00092336,1.434806911,2.005109587,-0.040733219
+NETGEAR - AC600 Dual-Band WiFi USB Mini Adapter - Black,290,"networking, adapter, switch",2.091525109,9.656578947,-0.049283758,0.05379446,-0.010674403
+VS278Q-P 27 16:9 LCD Monitor,291,"monitor, computer",-0.161155909,1.5,0.282606516,0.328150226,-0.030362473
+Apple iPod Touch,292,"player, ipod",-0.290812399,0.771929825,0.684035279,0.88296122,-0.257699514
+WD - My Book 6TB External USB 3.0 Hard Drive - Black,293,"drive, storage, hard",-0.117647059,2.105263158,0.052631579,0.058823529,-0.002941176
+Samsung SNH-P6410BN SmartCam HD Pro 1080p WiFi IP Camera,294,"security, surveillance, camera",-1.218077733,7.578947368,0.081342058,0.180423008,-0.013073181
+VG939SM 19 Ergonomic LED LCD Multimedia Display,295,"monitor, computer",-0.137612124,2.828947368,1.078952394,1.227429325,-0.052484868
+"Hisense 65 Class 4K(2160p) Smart LED TV (65H9PLUS)""",296,"tv, television, led",9.666803559,2.723684211,-0.004817757,0.041754551,-0.017099011
+Details About Microsoft Surface Pen Stylus W/ Tip Kit For Surface Pro 3,297,"tablet, computer, ipad",-0.311206737,0.947368421,0.339727305,0.445452731,-0.111599061
+Zoom - H1 Handy Recorder - Black,298,"microphone, musical, recording",-0.436116072,12.36842105,0.898667937,1.290591468,-0.031687434
+Sanus - Speaker Stands (Pair) - Black,299,"mount, tv, stand",-0.424675518,3.578947368,0.324551764,0.462380952,-0.038511097
+"Refurbished TCL 49 Class 4K (2160P) Roku Smart LED TV (49S405)""",300,"tv, television, led",0.42381946,3.596491228,1.44646098,0.833422668,0.170454555
+Samsung UN55KS8500 Curved 55-Inch 4K Ultra HD Smart LED TV (2016 Model),301,"tv, 4k, television",0.158147846,0.216775705,1.384323079,1.165395366,1.009927349
+Sony MDRXB950N1 Headphones Bluetooth Noise Cancel Extra Bass Blk MDR-XB950N1 #95,302,"headphone, earbud, bluetooth",0.070749936,0.953007519,0.222689333,0.206934077,0.016532143
+"Sharp Aquos N7000 65 Class 4K Ultra WiFi Smart LED HDTV""",303,"tv, 4k, television",-0.089750034,1.929824561,0.611314655,0.666180165,-0.02843031
+"Pioneer - Andrew Jones Soundbar System with 6-1/2 Wireless Subwoofer - Black""",304,"sound, speaker, home",-0.728344103,1.210526316,0.083479022,0.144280476,-0.050227288
+PDWM1904 Single-Channel Wireless System with Headset Lavalier Microphones,305,"microphone, musical, recording",-0.231835179,3.473684211,0.314811315,0.387795653,-0.021010643
+Details About Evga Nvidia Geforce Gtx 1080 Sc Gaming 8gb Gddr5x Pci Express 3.0 Graphics ...,306,"graphic, card, computer",-5.333333333,16,0.026315789,0.166666667,-0.00877193
+"Hisense - 55 Class - LED - H8 Series - 2160p - Smart - 4K UHD TV with HDR""",307,"tv, 4k, television",-0.491985987,3.672932331,0.347288676,0.518149838,-0.046519006
+Samsung Galaxy Tab E Lite 7 8gb White - Sm-T113nykaxar,308,"tablet, computer, ipad",-1.024480746,12.58200728,0.130894641,0.26499368,-0.010658
+Details About Zmodo Greet Wifi Video Doorbell W/ Zmodo Beam Smart Home Hub And Wifi Extender,309,"security, surveillance, camera",-0.830584245,6.315789474,0.145906433,0.267094017,-0.019188034
+CD Recorder Cassette and Turntable BLACK,310,"turntable, cd, audio",0.474342472,9.447368421,0.236144338,0.124131049,0.01185656
+Sony STRDN1070 7.2-channel AV Receiver w/ Bluetooth,311,"receiver, amplifier, home",-0.115757463,1.315789474,0.769017094,0.858036562,-0.067654796
+Acer 15.6 Chromebook CB5-571-C4G4,312,"laptop, computer",0.148557112,2.894736842,0.620997803,0.528744163,0.031869439
+Virgin Mobile - LG Stylo™ 3 4G LTE with 16GB Memory Prepaid Cell Phone - Gray,313,"phone, cell",-0.162900749,0.421052632,0.866574331,1.007739938,-0.335268318
+Seagate - SkyHawk Surveillance HDD 6TB Internal SATA Hard Drive for Desktops,314,"drive, storage, hard",-1.150430576,3.157894737,0.060027461,0.129084888,-0.021868185
+"HP 15-AY103DX 15.6 Touchscreen Touch Screen HD Laptop Notebook PC Computer 7th Gen i5-7200U Kaby Lake 8GB Memory 1TB HDD Hard Drive Windows 10""",315,"laptop, computer",-0.727272727,8,0.610397884,1.054323618,-0.055490717
+Sony - 5.1-Ch. 3D / Smart Blu-ray Home Theater System - Black,316,"sound, speaker, home",-0.637155722,2.84664787,1.049446009,1.718106538,-0.234894009
+inactive,317,"flash, camera",-0.1875,0.852631579,0.074250806,0.088172832,-0.016328302
+Viper 7153V 1-Way 5-Button SuperCode Replacement Remote for 5701,318,"remote, control, tv",-0.98292242,22.16842105,0.200694919,0.397962455,-0.008898583
+Refurbished Jaybird F5-S-B Freedom F5 In-Ear Wireless Headphones - Carbon,319,"headphone, earbud, bluetooth",-1.034603186,30.26466165,0.687276943,1.398335857,-0.023494692
+"Asus Zenbook Ux303uadh51t 13.3 Fhd Touchscreen Core I56200u 8gb 256gb""",320,"laptop, computer",-1.059960842,0.184210526,-0.055311891,-0.113940329,0.318268665
+"LG - 28 Class (27.5"" Diag.) - LED - 720p - HDTV""",321,"tv, television, led",-0.117113774,1.236842105,-0.008931419,-0.009977412,0.000845696
+ZTE Warp Elite No Contract Phone - Retail Packaging - Boost,322,"phone, cell",-3.390934844,18,0.038011696,0.16690688,-0.007160844
+"Samsung - 55 Class - LED - Curved - MU6490 Series - 2160p - Smart - 4K Ultra HD TV with HDR""",323,"tv, television, led",1.147345104,3.052631579,1.045069584,-0.153985886,0.392794033
+Jensen174 Portable 3-Speed Stereo Turntable With Built-In Speakers - Black (jta-410 ),324,"turntable, cd, audio",0.814745894,28.10566188,0.183365038,0.033969126,0.005315509
+SP-FS52 Andrew Jones Designed Floorstanding Loudspeaker,325,"speaker, audio",-0.377007133,2.807017544,0.113401281,0.156154373,-0.015230789
+"Alienware - R3 17.3 Laptop - Intel Core i7 - 16GB Memory - 1TB Hard Drive + 256GB Solid State Drive - Epic Silver""",326,"laptop, computer",1.099182475,0.368421053,2.068771294,-0.205185856,6.172169408
+LG Electronics OLED65C6P Curved 65-Inch 4K Ultra HD Smart OLED TV (2016 Model),327,"tv, 4k, television",-0.304292334,0.572368421,0.158827227,0.207157135,-0.084438459
+BRAVEN BRV-HD Wireless Bluetooth Speaker [28 Hour Playtime][Water Resistant] Built-In 8800 mAh Power Bank Charger - Black,328,"speaker, portable, bluetooth",1,34.21052632,-0.050877193,-2.08E-17,-0.001487179
+"Sony - Core Series 10 115W Active Subwoofer - Black""",329,"speaker, subwoofer, separate",-0.241307749,2.795989975,1.609298242,1.997634379,-0.138890389
+P-Series 55-Class UHD SmartCast LED Home Theater Display,330,"tv, 4k, television",2.570971906,3.618421053,0.071275216,-0.111971362,0.050642691
+Sennheiser Momentum 2.0 for Samsung Galaxy - Black,331,headphone,0.478588177,9.394736842,0.217647059,0.11348375,0.011087411
+Pioneer - 5.1-Ch. Network-Ready 4K Ultra HD and 3D Pass-Through HDR Compatible A/V Home Theater Receiver - Black,332,"receiver, amplifier, home",-0.174109772,2.631578947,0.965505702,1.133609679,-0.063879511
+"Samsung 64GB PRO+ microSDHC Card with Adapter, MB-MD64DA/AM",333,"card, memory, camera",4.653846154,19.84210526,0.028508772,-0.104166667,0.006686561
+CORSAIR K70 RGB RAPIDFIRE Mechanical Gaming Keyboard - USB Passthrough and Media Controls - Fastest and Linear - Cherry MX Speed - RGB LED Backlit,334,"keyboard, computer, mouse",-0.18662305,3.214912281,0.799135998,0.948273195,-0.046389196
+HP ENVY 34-b010 34-inch Curved All-in-One Computer (Intel Core i7-7700T,335,desktop,0.055446355,0.219298246,0.092780027,0.087635713,0.023458073
+Universal Projector Mount with 3 Extension Column,336,"projector, presentation, screen",-2.064333862,1.995614035,-0.027296311,-0.08364501,0.028236271
+Canary-Moble-phone-compatible-Digital-Wireless-Indoor-Security-Camera-with-Night-Vision,337,"security, surveillance, camera",-0.583333333,6.447368421,-0.110157469,-0.174415993,0.009966628
+Details About Evga Nvidia Geforce Gtx 1060 Ssc Gaming 6gb Gddr5 Pci Express 3.0 Graphics ...,338,"graphic, card, computer",-0.133174531,2,3.535795133,4.006672992,-0.235438929
+HT-CT790 330W 2.1-Channel Soundbar System,339,"sound, speaker, home",-0.173635468,7.131578947,0.688721682,0.808308193,-0.016768588
+Samsung - Adaptive Fast Charging Wall Charger - White,340,"power, battery, cell",0.461617391,2.333333333,1.04795288,0.564199606,0.207322832
+"RCA Indoor Digital TV Antenna, Amplified, 40-Mile Range",341,"tv, streaming, medium",0.523712737,0.368421053,0.191812865,0.091358025,0.272663139
+P101 Ceiling Projector Mount (White),342,"projector, presentation, screen",-1.13301111,3.006911217,0.113343674,0.241763316,-0.042708159
+Details About Sylvania Dual Portable Dvd Player W/ 9inch Widescreen Led Display Refurbished,343,"player, ipod",-0.071361372,0.197368421,1.171626794,1.25523569,-0.423618406
+VIZIO M-Series 70” SmartCast 2160p 4K XHDR Plus XLED Plus Display (M70-D3),344,"tv, television, led",-285.0010317,4.92202729,0.000241429,0.069049018,-0.013979522
+LG - MiniBeam PH550 720p DLP Projector - White,345,"projector, presentation, screen",-0.583333333,1.75,0.23929141,0.378878066,-0.079763803
+Sony - 1155W 7.2-Ch. Hi-Res Network-Ready 4K Ultra HD and 3D Pass-Through HDR Compatible A/V Home Theater Receiver - Black,346,"receiver, amplifier, home",-0.216285345,2.013157895,1.071366235,1.303087051,-0.115103151
+Seagate Backup Plus Hub 8TB External Desktop Hard Drive Storage + 2mo Adobe CC Photography (STEL8000100),347,"drive, storage, hard",-0.194028953,1,0.320960164,0.383235729,-0.062275565
+Braven BRV-BLADE Wireless Portable Bluetooth Speaker [22 Hour Playtime][Waterproof] 4000 mAh Power Bank Charger - Black,348,"speaker, portable, bluetooth",1.017392423,19.05263158,-0.057017544,0.000991673,-0.003044683
+Sherwood - 400W 4.0-Ch. Stereo Receiver - Black,349,"receiver, amplifier, home",-2.14973262,0.8,-0.014473684,-0.045588235,0.038893189
+"Asus - 27 IPS LED HD GSync Monitor - Black""",350,"monitor, computer",0.106158973,2.578947368,1.609331378,1.438486412,0.066246007
+Sherwood - 200W 2.0-Ch. A/V Home Theater Receiver - Black,351,"receiver, amplifier, home",-0.266666667,0.884210526,0.048884825,0.061920778,-0.014743042
+naxa - 2.1-Channel Soundbar with 50-Watt Digital Amplifier - Black,352,"sound, speaker, home",-0.064102978,0.315789474,-0.058853573,-0.062626263,0.011946849
+Samsung UN65KS9500 65-inch Smart 4K UHD TV,353,"tv, 4k, television",18.29898649,12.10526316,-0.002631579,0.045523649,-0.003978041
+"Samsung 55 Class 4K (2160P) Smart LED TV (UN55KU7000)""",354,"tv, 4k, television",-1.714285714,31.57894737,-0.026315789,-0.071428571,0.001428571
+"Lenovo Flex 4 1470 80SA0000US 2-in-1 - 14 HD Touch - Pentium 4405U 2.1Ghz - 4GB - 500GB""",355,"laptop, computer",-0.901889158,8,0.260310816,0.495082318,-0.029346438
+TP-Link AV500 2-port Powerline Starter Kit,356,"networking, adapter, switch",0.522819617,0.105263158,-0.048027265,-0.022917669,-0.238541166
+PNY - XLR8 NVIDIA GeForce GTX 1080 8GB GDDR5X PCI Express 3.0 Graphics Card - Black/Red,357,"graphic, card, computer",-0.77090301,1,0.064718615,0.11461039,-0.049891775
+Toshiba - 2.0-Channel Soundbar with 16-Watt Digital Amplifier - Black,358,"sound, speaker, home",1.93442623,0.49122807,0.038220551,-0.035714286,0.150510204
+AVR-X2400H 7.2-Channel Network A/V Receiver,359,"receiver, amplifier, home",-0.080221931,1.096491228,0.518265518,0.559841779,-0.03791755
+"Details About Asus Q304 13.3 Laptop I5 2.5 Ghz 6gb 1tb Hdd Win 10 (q304uabhi5t11)""",360,"laptop, computer",-0.101380189,1.047619048,0.468235361,0.515705151,-0.045312072
+Toshiba - Canvio Basics 1TB External USB 3.0 Portable Hard Drive - White,361,"drive, storage, hard",1.428271479,0.105263158,0.019571287,-0.008381824,0.265554548
+"LG - 75 Class - LED - UJ6470 Series - 2160p - Smart - 4K UHD TV with HDR""",362,"tv, 4k, television",-0.12750701,7.827067669,1.200672734,1.353766924,-0.019559584
+HP Pavilion 24-inch All-in-One Computer,363,desktop,-3.75,8.289473684,0.00877193,0.041666667,-0.003968254
+DSLR Value Pack with Nikon School Online Course,364,"camera, bag",-0.533671014,6.115037594,1.133259872,1.738047817,-0.098901754
+Onkyo TX-8270 2 Channel Network Stereo Receiver with 4k HDMI,365,"receiver, amplifier, home",-0.262217957,0.736842105,0.258925935,0.326820965,-0.092143255
+instax mini 8 Instant Film Camera and Groovy Case Kit (Raspberry),366,"camera, shoot, point",-0.403817023,2.947368421,-0.162028177,-0.227457912,0.022199375
+"Samsung - 40 Class - LED - MU6290 Series - 2160p - Smart - 4K Ultra HD TV with HDR""",367,"tv, television, led",0.47337519,2.394736842,1.524646045,0.802916433,0.301381596
+House of Marley EM-DH003-PS TTR Noise-Cancelling Over-Ear Headphones (Black),368,headphone,-1.403601541,25.68421053,0.113192019,0.272068511,-0.006185765
+Sony - 2.1-Channel Soundbar System with Wireless Subwoofer and Digital Amplifier - Black,369,"sound, speaker, home",-0.129105259,1.478696742,3.233689616,3.651175953,-0.28233398
+12.3 32GB Multi-Touch 2-in-1 Chromebook Plus,370,"laptop, computer",1.133544486,3.587719298,0.465692213,-0.062190627,0.147136049
+YU2 Powered Desktop Speakers (Glossy Red),371,"speaker, audio",-2.8,6.631578947,0.098684211,0.375,-0.041666667
+"Samsung - Galaxy Tab E - 9.6 - 16GB - Black""",372,"tablet, computer, ipad",2.04555029,0.631578947,0.006610276,-0.006911376,0.021409281
+"Kenwood KFC-1653MRW 6.5 2-way Marine Speakers Pair (White)""",373,"car, speaker, subwoofer",0.49186568,4.512280702,6.110871815,3.105143696,0.666121706
+Toshiba Micro Component Speaker System: Wireless Bluetooth Speaker Sound System with FM,374,"audio, shelf, tabletop",0.136363636,3.333333333,-0.041353383,-0.035714286,-0.001691729
+Onkyo TXNR757 7.2 Channel Wireless A/V Receiver w/ HDCP2.2/HDR DTS _ Bluetooth,375,"receiver, amplifier, home",-4.921850925,15.84210526,0.009603895,0.056872833,-0.002983754
+SiliconDust HDHomeRun CONNECT Quatro Live TV for Cord Cutters 4-Tuner (HDHR5-4US) with Terk Indoor Flat 4K HDTV Multi-Directional Antenna,376,"tv, streaming, medium",1.50729927,0.736842105,0.047619048,-0.024157108,0.097410497
+Pioneer TS-SWX2502 10 inch Shallow-Mount Pre-Loaded Enclosure,377,"car, speaker, subwoofer",-18.82676697,2.74354067,0.006653403,0.131915478,-0.045657087
+W650D-Series 48-Class Full HD Smart LED TV,378,"tv, television, led",-8.856863702,8.555555556,-0.012672167,-0.124907821,0.013118453
+"Samsung - 65 Class - LED - Q7F Series - 2160p - Smart - 4K UHD TV with HDR""",379,"tv, television, led",3.440430819,8.518796992,0.202270382,-0.493626874,0.081689616
+"HP - Stream 14 Laptop - Intel Celeron - 4GB - 32GB eMMC Flash Memory - Office 365 Personal 1-Year Subscription Included - Aqua blue""",380,"laptop, computer",0.567442063,0.842105263,-0.083929023,-0.036304165,-0.056554519
+"Sony XBR-65A8F 65 BRAVIA OLED 4K HDR TV""",381,"tv, television, led",2.422459893,0.263157895,-0.016541353,0.023529412,-0.152268908
+Energizer Nikon D5100/3100 Battery Grip,382,"camera, camcorder, action",0.875525628,8.815789474,0.097739541,0.012166068,0.009706842
+Reference Premiere RP-440C Center Speaker (Ebony),383,"speaker, center, channel",-0.006685402,0.210526316,0.149578854,0.150578849,-0.004749975
+"Samsung - 55 Class - LED - Q8F Series - 2160p - Smart - 4K UHD TV with HDR""",384,"tv, television, led",15.02052427,6.059649123,0.053827751,-0.754693292,0.13342704
+Memorex CD/Cassette Recorder Boombox MP3 AM/FM FlexBeats MP3262 with Aux line in jack - Black,385,"radio, portable, satellite",-1.341414141,3.789473684,0.118421053,0.277272727,-0.041919192
+Phantom 530 Full-Tower Case (Black),386,"case, computer",-0.009098127,0.105263158,1.277372335,1.288994031,-0.110406106
+"Samsung Leather Flip Book Cover Case for Samsung Galaxy Note 10.1 2014 Edition - Black Retail Packaging""",387,"case, computer",1,58.84210526,-0.026315789,-1.73E-17,-0.000447227
+Hisense 50H4D Roku 50-inch HD Smart DLED TV,388,"tv, television, led",-0.64797617,5.684210526,0.082518797,0.135989011,-0.009406797
+Sennheiser - HD 800 Over-the-Ear Headphones - Silver/Black,389,headphone,6.070398169,1.013415893,0.03551643,-0.180082441,0.212744711
+Aeon 58.3 x 104.1 16:9 Fixed Frame Projection Screen with CineWhite Projection Surface,390,"screen, projector, projection",-0.992163926,3.763157895,0.210962928,0.420272734,-0.055620788
+V-MODA - Crossfade Wireless Headphones - Gunmetal Black,391,headphone,3.237127371,0.30075188,0.035042735,-0.078395062,0.377180674
+Ecoxgear Ecocarbon Bluetooth Waterproof Speaker (black),392,"speaker, portable, bluetooth",-0.406257764,0.605263158,0.103093741,0.144976374,-0.069197393
+Details About Kicker Hp402bt Tabor Black Overtheear Wireless Bluetooth Headphones,393,headphone,-12.97477846,0.736842105,0.002782498,0.038884794,-0.048995973
+Lumix G 42.5mm f/1.7 ASPH. POWER O.I.S. Lens,394,"lens, camera",0.136350788,0.097744361,0.868479193,0.750061371,1.211505416
+SanDisk 8GB Clip Jam MP3 Player (Pink),395,"player, ipod",0.252815422,0.255639098,0.666049714,0.497662075,0.658692824
+Details About Midland Wr120c Noaa Weather Alert Radio,396,"radio, portable, satellite",-0.224826389,0.552631579,-0.082051282,-0.100498575,0.033380817
+Bose® - QuietComfort® 20 Headphones (Android) - Black,397,"headphone, earbud, bluetooth",1.097761216,4.588498344,0.168880415,-0.016509955,0.040403277
+VPL-HW45ES Full HD Home Theater Projector (Black),398,"projector, presentation, screen",-0.67927679,0.75708502,0.197509541,0.331673188,-0.177210806
+WD - My Passport X 3TB External USB 3.0 Portable Hard Drive - Black,399,"drive, storage, hard",-0.583333333,1.252631579,-0.065124934,-0.103114478,0.030327788
+"Samsung - 49 Class (48.5"" Diag.) - LED - 1080p - Smart - HDTV""",400,"tv, television, led",0.881064163,0.3,0.148287385,0.017636684,0.435502336
+"iSimple - StrongHold Headrest Mount for Most 7 - 10.2"" Tablets - Black""",401,"car, gps, dash",8.5,0.552631579,-0.004761905,0.035714286,-0.07324263
+Details About Seagate 1tb Internal Serial Ata Hard Drive For Laptops,402,"drive, storage, hard",-0.583333333,0.98245614,-0.111464708,-0.176485788,0.066182171
+CORSAIR - MM800 Polaris RGB Gaming Mouse Pad - Black,403,"mouse, keyboard",-0.316831683,3.368421053,0.052631579,0.069306931,-0.004950495
+Rugged Book Keyboard and Case for iPad Air 2,404,"keyboard, computer, mouse",-0.074354926,0.315789474,0.695336887,0.74703861,-0.163722121
+ECOXGEAR ECOXBT Rugged and Waterproof Wireless Bluetooth Speaker (Orange),405,"speaker, portable, bluetooth",-0.907335907,10.78947368,0.113596491,0.216666667,-0.009552846
+ProSafe 16-Port 10/100 Desktop Switch,406,"networking, adapter, switch",-0.733654618,1.003508772,0.339390142,0.588385287,-0.248124533
+Sony - Over-the-Ear Hi-Res Headphones - Black,407,headphone,0.651860171,0.830940989,0.078577891,0.027356093,0.061643123
+V-MODA - CROSSFADE M-100 Over-the-Ear Headphones - Black,408,headphone,-0.202723205,1.013157895,0.664306726,0.798977114,-0.132921422
+1506TSA Lock,409,"tablet, computer, ipad",0.323839446,1.394736842,0.560387621,0.378912004,0.130114593
+CybertronPC - Rhodium Desktop - AMD FX-Series - 16GB Memory - NVIDIA GeForce GTX 1050 - 2TB Hard Drive - Green,410,desktop,-2.930948637,0.140350877,-0.033811802,-0.132912458,0.706092172
+NETGEAR AC1000 Dual Band Smart WiFi Router,411,"networking, modem, router",-1.120198675,2.385964912,0.043859649,0.09299117,-0.020591887
+"Startech VGA Video Extender Over Cat5, Point to Point",412,"cable, tv, theater",-1.164216213,0.063157895,-0.033898289,-0.073363227,0.624861512
+Canon EF 100mm f/2.8L IS USM Macro Lens for Canon Digital SLR Cameras,413,"lens, camera",1,0.339181287,0.016746411,-3.47E-18,0.049373041
+Details About Logitech G403 Prodigy Wireless Gaming Mouse,414,"mouse, keyboard",0.762702366,4.934210526,0.478258145,0.113489526,0.07392644
+SiriusXM SXEZR1H1 XM Onyx EZR Satellite Radio with Free 3 Months Satellite and Streaming Service,415,"radio, portable, satellite",-1.11658912,4.263157895,0.359102885,0.76007326,-0.094054779
+"Kicker 41IK5BT2V2 Amphitheater High-Performance Audio System with Bluetooth, Black",416,"speaker, audio",-0.650833613,0.526315789,0.041478697,0.068474427,-0.051291887
+Details About Zmodo Hd Wifi Home Security Camera Twoway Audio Motion Detection Cloud Service,417,"security, surveillance, camera",0.204013752,1.327935223,-0.068147736,-0.05424466,-0.010469694
+SUT670P Slim Tilting Wall Mount for 32 to 80 Displays (Black),418,"mount, tv, stand",0.392005304,0.157894737,0.124129611,0.075470145,0.308176618
+J5205 32-Class Full HD Smart LED TV,419,"tv, television, led",1.156465302,4.144967682,-0.041167734,0.006441322,-0.01148599
+Sony XBR55X700D 55-Inch 4K Ultra HD Smart LED TV (2016 Model),420,"tv, 4k, television",-0.580282595,1.052631579,0.105466369,0.166666667,-0.058140283
+Acer Predator G1-710 Desktop Computer - Intel Core i7-6700 3.4 GHz - 16 GB DDR4 SDRAM - 2 TB HDD + 512 GB SSD,421,desktop,-0.43130227,8,-0.089647195,-0.128312234,0.00483313
+SiriusXM SXEZR1V1 XM Onyx EZR Satellite Radio Receiver with Vehicle Kit,422,"radio, portable, satellite",-0.727272727,7.157894737,0.036682616,0.063360882,-0.003727111
+"Monster SuperStar BackFloat High-Definition Bluetooth Speaker, Neon Green",423,"speaker, portable, bluetooth",1.468913147,10.52631579,-0.030701754,0.014396456,-0.00428433
