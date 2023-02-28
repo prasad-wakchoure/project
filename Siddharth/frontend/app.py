@@ -9,6 +9,7 @@ app = Flask(__name__)
 
 
 model = pickle.load(open('model.pkl','rb'))
+dv = pd.read_csv("PED-data-final.csv")
 
 def ss(x):
     print(x)
